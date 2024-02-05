@@ -1,0 +1,6 @@
+colors:
+- [153, 73, 218]
+names: [Steering Wheel]
+nc: 1
+train: C:/Users/james/Desktop/Train_steering_wheel/make_yolo/data/images/train
+val: C:/Users/james/Desktop/Train_steering_wheel/make_yolo/data/images/val

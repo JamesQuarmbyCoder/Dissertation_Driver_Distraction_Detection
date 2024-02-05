@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 1393056571,
+            "classId": 11759268,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "JQ_Diss_1",
+            "createdAt": "2023-08-07T10:32:32.122Z",
+            "updatedAt": "2023-08-07T10:32:32.122Z",
+            "tags": [],
+            "classTitle": "Steering_Wheel",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        89
+                    ],
+                    [
+                        555,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
